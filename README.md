@@ -32,10 +32,10 @@ Local installation:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/srajiv9496/Calendar-frontend.git
+$ git clone https://github.com/srajiv9496/Calendly-Frontend.git
 
 # Change directory to the project path
-$ cd Calendar-Frontend
+$ cd Calendly-Frontend
 ```
 
 ---
@@ -43,7 +43,7 @@ $ cd Calendar-Frontend
 **Server setup:**
 ```bash
 # Change directory to the server path
-$ cd Calendar-Frontend
+$ cd Calendly-Frontend
 
 # Install dependencies
 $ npm install
@@ -59,7 +59,7 @@ $ cp .env.example .env.local
 $ cd ..
 
 # Change directory to the client path
-$ cd Calendar-Frontend
+$ cd Calendly-Frontend
 
 # Install dependencies
 $ npm install
@@ -77,7 +77,7 @@ REACT_APP_API_URL="http://localhost:5000/api"
 ## Deployment 📦
 
 # Open another terminal in project path and run
-$ cd Calendar-Frontend
+$ cd Calendly-Frontend
 $ npm start
 ```
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
